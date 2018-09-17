@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CityScope_CityRobotic</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>msi.gama.application.gamaNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>external/citymatrix_volpe</name>
+			<type>1</type>
+			<location>C:/Users/Arno/Projects/Gama/MIT/Gama1.8_15_August_2018_5/.cache/cityio.media.mit.edu+_++_+api+_+table+_+citymatrix_volpe</location>
+		</link>
+		<link>
+			<name>external/copy of citymatrix_volpe</name>
+			<type>1</type>
+			<location>C:/Users/Luana/gama_workspace1.8/.cache/cityio.media.mit.edu+_++_+api+_+table+_+citymatrix_volpe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
